@@ -303,9 +303,66 @@ This project demonstrates practical experience with:
 
 ---
 
+# Screenshots
+
+## Flask Application
+
+The Flask application serving requests successfully.
+
+![Flask Application](screenshots/flask-app.png)
+
+---
+
+## Prometheus Dashboard
+
+Prometheus monitoring interface used to collect application metrics.
+
+![Prometheus Dashboard](screenshots/prometheus-dashboard.png)
+
+---
+
+## Load Testing with Locust
+
+Load testing performed using 100 concurrent users to measure application performance.
+
+![Locust Load Test](screenshots/locust-load-test.png)
+
+---
+
+## User Behavior Anomaly Detection
+
+Isolation Forest identifies abnormal request patterns.
+
+![Anomaly Detection](screenshots/anomaly-detection.png)
+
+---
+
+## Traffic Prediction
+
+Linear Regression predicts future application traffic.
+
+![Traffic Prediction](screenshots/traffic-prediction.png)
+
+---
+
+## Automated Scaling Recommendation
+
+Scaling recommendations generated from predicted traffic.
+
+![Scaling Recommendation](screenshots/scaling-recommendation.png)
+
+---
+
+## Performance Optimization Insights
+
+Automatically generated optimization recommendations based on application performance.
+
+![Optimization Insights](screenshots/optimization-insights.png)
+
+
 #  Author
 
-**Dada Feranmi**
+**Oluwaferanmi Dada**
 
 DevOps Engineer | Cloud Engineer | Platform Engineering Enthusiast
 
